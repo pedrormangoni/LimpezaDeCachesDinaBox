@@ -1,4 +1,4 @@
-# 🗑️impeza de Caches DinaBox  
+# Limpeza de Caches DinaBox  
 
 Extensão para **SketchUp 2021+** que permite a exclusão rápida e prática dos arquivos de cache do **DinaBox**.  
 
@@ -10,7 +10,7 @@ Extensão para **SketchUp 2021+** que permite a exclusão rápida e prática dos
 
 ---
 
-## 🚀 Instalação  
+## Instalação  
 1. Baixe o arquivo `LimpezaDeCaches.rbz`.  
 2. No SketchUp, acesse:  
    **Extensões → Gerenciador de Extensões → Instalar Extensão**  
@@ -20,7 +20,7 @@ Extensão para **SketchUp 2021+** que permite a exclusão rápida e prática dos
 
 ---
 
-## 🧹 Uso  
+##  Uso  
 - Sempre que quiser limpar os arquivos de cache do DinaBox, **clique no ícone da lixeira** na barra de ferramentas.  
 
 ---
