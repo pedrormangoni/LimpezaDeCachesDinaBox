@@ -26,5 +26,8 @@ Extensão para **SketchUp 2021+** que permite a exclusão rápida e prática dos
 ---
 
 ## Observações  
-- Funciona apenas em versões atuais do SketchUp (**2021+**).  
- 
+- Funciona apenas em versões atuais do SketchUp (**2021+**).
+- Este plugin não é oficial DinaBox. 
+
+## Contribuições e Suporte
+- Para sugestões de melhorias ou relato de bugs, utilize a aba Issues do GitHub.
